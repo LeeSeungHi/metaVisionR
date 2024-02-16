@@ -1,4 +1,7 @@
-MetaVision v1.0.7 Release
+MetaVision v1.0.9 Release
+
+#New Feature
+##ADB shell command Support
 =============
 # Feature list
 ## Performance control
