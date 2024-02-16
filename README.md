@@ -1,7 +1,7 @@
 MetaVision v1.0.9 Release
 
-#New Feature
-##ADB shell command Support
+# New Feature
+## ADB shell command Support
 =============
 # Feature list
 ## Performance control
